@@ -8,6 +8,10 @@ layout: default
 
 Forbid your chosen apps when Mr Noplay is running in work mode.
 
+## Fix Minor Problems on Windows
+
+I use macOS to develop, so there're several problems left on Windows. They'll be fixed.
+
 ## Change Maximum Overtime
 
 Now we allow users to have 10-min overtime before forced-shutdown, we'll allow users to change the length of time in the future.
